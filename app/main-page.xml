@@ -1,0 +1,5 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" actionBarHidden="true" class="nothing">
+    <FlexboxLayout  flexDirection="column-reverse" class="p-20">
+        <Label text="{{ message }}" class="h2 text-center" textWrap="true" />
+    </FlexboxLayout>
+</Page>
